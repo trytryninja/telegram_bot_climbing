@@ -10,6 +10,7 @@ payload = {
     "chat_id": CHAT_ID,
     "question": "Climb this week?",
     "options": ["Mon", "Tues", "Wed", "Thurs", "Fri", "Sat", "Sun", "Not this week"],
+    "allows_multiple_answers": True,
     "is_anonymous": False,
 }
 
