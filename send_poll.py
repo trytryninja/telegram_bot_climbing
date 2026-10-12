@@ -9,7 +9,7 @@ url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPoll"
 payload = {
     "chat_id": CHAT_ID,
     "question": "Climb next week? 🧗🏼‍♀️",
-    "options": ["Mon", "Tues", "Wed", "Thurs", "Fri", "Sat", "Sun", "Not this week"],
+    "options": ["Mon", "Tues", "Wed", "Thurs", "Fri", "Sat", "Sun", "CMI 😭"],
     "allows_multiple_answers": True,
     "is_anonymous": False,
 }
